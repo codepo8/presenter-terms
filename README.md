@@ -29,13 +29,14 @@ I have defined presenter terms. In addition to the ones here, please refer to th
 - [x] JavaScript/CSS/HTML - Web development 
 - [x] Progressive Web Apps 
 - [x] Development practices and culture
+- [x] Developer Relations 
 - [x] Accessibility 
 - [x] Machine Learning / Artificial Intelligence
 - [x] Community building 
 - [x] Careers in Tech 
 - [x] Development tools
 - [x] Future of computing
-  
+
 ## :collision: Show stoppers
 
 I know it is hard to organise events, so I want to make sure that we are on the same level. Here is a list of things that I will not do. 
@@ -46,30 +47,50 @@ I know it is hard to organise events, so I want to make sure that we are on the 
 * :x: I don't deal with sponsorships of the event and I am not interested in sponsored speaking slots. 
 * :x: I have a list of people I will not present alongside and I refuse to present at events that have certain sponsors. I will flag that up to you when that is the case. I am sorry, that this is the case, but it helps.
 
-### My deliveries
+## :dance: My deliveries at your event
 
-- [x] **Deliver a fitting talk for the intended audience.** I am happy to discuss content with you but I only will not send slides for review and change by conference organisers. I tend to deliver a unique talk every time I can and it will be an up-to-date talk. This can not be achieved if I need to send in the deck weeks in advance. Slides to me are wallpaper of a presentation and I treat them as such. 
-- [x] **Deliver the talk on time and sticking to the defined format and duration.** I need to know what time frame you expect and what format you want it to be in. I will show up at the times you need me to be there and set up on stage with enough time for AV people to wire up microphones and other equipment. I tend not to need any dry-run or setup, but I am happy to do so if that is your conference policy. 
-- [x] **Use my own computer to deliver my talk.** Many times I will go beyond slide decks and show live code and examples. My setup is a Surface Pro or Macbook and I will bring my own dongle and remote control. 
-Attend your event to mingle with attendees. I do speak because I want people to learn something. Therefore I will take part in your conference to be able to answer people's questions before and after my presentation or workshop. I consider parachuting in and out of conferences and only mingling with other speakers a waste and unprofessional demeanor for a conference presenter. We're not rockstars or actors who deliver a concert or play and leave. That said, I can't always be there for the whole conference, especially for multi-day events. I'd appreciate a schedule where you really need me to be there. 
+Here's what I will do when invited as a presenter at your event.
+
+- [x] **Deliver a fitting talk for the intended audience.** I tend to deliver a unique talk every time I can and it will be an up-to-date talk.  
+- [x] **Deliver the talk on time and sticking to the defined format and duration.** I need to know what time frame you expect and what format you want it to be in. I will show up at the times you need me to be there and set up on stage with enough time for AV people to wire up microphones and other equipment. 
+- [x] **Be available for conference attendees.** Conferences to me are more about the people than about the content. Therefore I will try to be there for questions and feedback.
+- [x] **Be available for other promotional parts of the event.** I am happy to do interviews or give you feedback to use in conference wrap-ups
 - [x] **Promote my presence at your event.** I will tweet and blog before, during and after the event about what I will do at your event and interesting things I encounter. 
 - [x] **Publish my slides and screen recording after my talk.** If there is a good enough connection, this normally happens right after the presentation. Everything I create at your event will be licensed Creative Commons unless otherwise agreed. 
 
-### My expectations
+## :computer: My setup 
+
+I am pretty open to different ways of presenting, but here is my perfect setup
+
+- [x] I like to use my own computer as I have them set up the way I need and there may be coding examples.
+- [x] I either use a Surface Book or a Macbook Pro. Both come with Mini Display Ports but I also carry a dongle to connect to HDMI.
+- [x] I only send slides in advance when there is live translation or signing. Then I will also have a list of terms to translate and put some time aside with the translators to go through the deck.
+
+If I need to use a central computer instead of mine, please consider the following:
+
+- [x] My slides are in PowerPoint and 16:9 format. I will have them on a memory stick with the needed fonts.
+- [x] I don't use any audio or video in my slides, but some GIF animations.
+- [x] I normally don't need notes, but I want to have a remote clicker and a "nanny screen" where I can see my slides instead of having to refer to the screen behind me.
+
+## :prey: My expectations
+
+I am a professional presenter, and will do a lot to ensure that the event will be a success. As such, I have a few expections I want met:
+
+- [] **Provide me with a prime speaking slot.** I've proven to be a good keynote speaker and find interesting topics to open or close conferences. 
+- [] **Deliver a professional stage setup.** I bring my own laptop and connectors, but I expect at least a power plug and a microphone. I am very good with audio engineers (having been one myself) but I am not there to fix audio issues or set up projectors. I expect this to work and be available. I normally don't need an internet connection, but would love to have one. 
+- [] **Record and publish my talk.** Recordings are a great advertisement for your conference and I make sure my presentations make sense without being in the room. 
+- [] **Keep me out of sponsorship discussions.** I am at your event as Chris and to present. I will not "pay to play" and I won't speak at sponsored speaking slots. I am happy to provide you with contacts of who to invite instead. I am also happy to introduce you to company colleagues dealing with sponsorships, but this is not - at all - what I do. If you are looking for a corporate sponsoring to sell speaking slots, please don't contact me. 
+
+## :money_with_wings: Cost and payments/expenses
+
+I am in the lucky position that I have a job that allows me to present. That doesn't mean though that I want to be a "cheaper" option and stand in the way of people who live off presenting. 
+
+- [] **I don't expect to be paid for my presentations if your conference helps me in my work.** However, to ensure I don't under-bid peers, I'd like conferences to offer free diversity tickets for the value of a speaker fee instead. 
+- [] **If possible, I'd like you to cover my travel and hotel.** I am on stage and need to be able to concentrate on that. I can not do so if I need to find lodgings and organise travel to your event in addition to presenting. I don't expect first class or business class flights, but I do expect to arrive a day before the event and leave the day after with lodging organised in between. I do not want to book and pay myself and get reimbursed. International payments are a mess and I don't have time to deal with paper work in between events seeing that I am presenting almost every two weeks. I am sorry if that sounds harsh, but I want to concentrate on my talks, not try to explain to the tax department what all these invoices are about. 
 
 
-### Expenses and payment 
 
-
-- [] Provide me with a prime speaking slot. I've proven to be a good keynote speaker and find interesting topics to open or close conferences. I also work well as a moderator or on-stage interviewer. I don't feel I am used to the best of my abilities for your event when I speak to a half-empty room in a side track. I am happy to promote and remind people of side-track activities though. 
-- [] Deliver a professional stage setup. I bring my own laptop and connectors, but I expect at least a power plug and a microphone. I am very good with audio engineers (having been one myself) but I am not there to fix audio issues or set up projectors. I expect this to work and be available. I normally don't need an internet connection, but would love to have one. 
-- [] Record and publish my talk. As each of my talks are unique there is no danger that people can attend one they already have seen on the web. Recordings are a great advertisement for your conference. 
-- [] If possible, I'd like you to cover my travel and hotel. I am on stage and need to be able to concentrate on that. I can not do so if I need to find lodgings and organise travel to your event in addition to presenting. I don't expect first class or business class flights, but I do expect to arrive a day before the event and leave the day after with lodging organised in between. I do not want to book and pay myself and get reimbursed. International payments are a mess and I don't have time to deal with paper work in between events seeing that I am presenting almost every two weeks. I am sorry if that sounds harsh, but I want to concentrate on my talks, not try to explain to the tax department what all these invoices are about. 
-- [] Keep me out of sponsorship discussions. I am at your event as Chris and to present. I will not "pay to play" and I won't speak at sponsored speaking slots. I am happy to provide you with contacts of who to invite instead. I am also happy to introduce you to company colleagues dealing with sponsorships, but this is not - at all - what I do. If you are looking for a corporate sponsoring to sell speaking slots, please don't contact me. 
-
-
-
-## Presenter Headshots 
+## :camera: Presenter Headshots 
 
 [![Chris Heilmann at EnterJS](/photos/thumb-chris-heilmann-enterjs-cropped.jpg)](/photos/chris-heilmann-enterjs-cropped.jpg) 
 [![Chris Heilmann on stage at EnterJS](/photos/thumb-chris-heilmann-enterjs-live-cropped.jpg)](/photos/chris-heilmann-enterjs-live-cropped.jpg)
