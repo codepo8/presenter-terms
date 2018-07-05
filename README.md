@@ -11,6 +11,14 @@ Hello I am Chris and I am happy that you are interested in me speaking at your e
 * **Blog/Homepage:** https://christianheilmann.com
 * **Location:** Berlin, Germany
 
+## ::vhs: Videos of note 
+
+In case you are interested in seeing me in action, here are some talks I liked:
+
+* [We are Developers 2018: Sacrificing the Golden Calf of Coding](https://www.youtube.com/watch?v=iPfMatOgRBg)
+* [AI Devcon San Francisco: AI for Human Interfaces](http://aidc.gallery.video/detail/video/5789367429001/ai-for-human-interfaces---use-cases-and-ethics?autoStart=true&q=heilmann)
+* Skillshare courses: [The Complete JavaScript Toolkit](https://skl.sh/christian_javascript) and [Demystifying Artificial Intelligence: Understanding Machine Learning](https://skl.sh/christian) 
+
 ## :pencil: Presenter Bio
 
 > Chris Heilmann dedicated the last 20 years of his life to make the web work and thrive. As a lead developer on some of the largest web products he learned that knowledge is not enough without teamwork and good handover. He dedicated most of his time since on educating, writing and sharing, presenting on average at 30 conferences a year. He strives to make code and coders work efficiently. He is the author of several JavaScript books and the Developer Evangelism handbook (http://developer-evangelism.com). He is currently a Senior Program Manager in Microsoft and spends a lot of time pondering how machine learning and AI can aid humans and replace jobs we're too important to do. 
