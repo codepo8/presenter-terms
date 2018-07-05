@@ -2,7 +2,7 @@
 
 I have defined presenter terms. In addition to the ones here, please refer to the [So you want me to talk?](https://christianheilmann.com/2012/04/25/so-you-want-me-to-talk/) article on my blog. I am a professional presenter with lots of experience. Therefore I want to make sure that there is no misconception about what I expect and deliver.
 
-## Personal information
+## :wave: Personal information
 
 * **Name:** Christian Heilmann
 * **Company:** Microsoft
@@ -11,7 +11,17 @@ I have defined presenter terms. In addition to the ones here, please refer to th
 * **Blog/Homepage:** https://christianheilmann.com
 * **Location:** Berlin, Germany
 
-## Presenter Bio
+## :bangbang: Show stoppers
+
+I know it is hard to organise events, so I want to make sure that we are on the same level. Here is a list of things that I will not do. 
+
+* :x: I will not present at a panel or a conference line-up with an obvious lack of diversity. Our audience comes in all shapes and sizes, so should the experts on stage
+* :x: I expect the conference to have an enforced code of conduct 
+* :x: I don't "pay to play". As a presenter, I expect full access to the event.
+* :x: I don't deal with sponsorships of the event and I am not interested in sponsored speaking slots. 
+* :x: I have a list of people I will not present alongside and I refuse to present at events that have certain sponsors. I will flag that up to you when that is the case. I am sorry, that this is the case, but it helps.
+
+## :pencil: Presenter Bio
 
 > Chris Heilmann dedicated the last 20 years of his life to make the web work and thrive. As a lead developer on some of the largest web products he learned that knowledge is not enough without teamwork and good handover. He dedicated most of his time since on educating, writing and sharing, presenting on average at 30 conferences a year. He strives to make code and coders work efficiently. He is the author of several JavaScript books and the Developer Evangelism handbook (http://developer-evangelism.com). He is currently a Senior Program Manager in Microsoft and spends a lot of time pondering how machine learning and AI can aid humans and replace jobs we're too important to do. 
 
