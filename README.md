@@ -105,7 +105,7 @@ Even with the best intentions, there may be trouble and I might not be available
 [![Chris Heilmann at Smashingconf](/photos/thumb-chris-heilmann-dotted-shirt-microphone.jpg)](/photos/chris-heilmann-dotted-shirt-microphone.jpg)
 [![Chris Heilmann at Internet Days](/photos/thumb-chris-heilmann-internetdagarna2016.jpg)](/photos/chris-heilmann-internetdagarna2016.jpg)
 [![Chris Heilmann Peeking](/photos/thumb-chris-heilmann-tie-peeking.jpg)](/photos/chris-heilmann-tie-peeking.jpg)
-[![Chris Heilmann at Great Wide Open](/photos/thumb-chris-heilmann-great-wide-open)](/photos/chris-heilmann-great-wide-open)
+[![Chris Heilmann at Great Wide Open](/photos/thumb-chris-heilmann-great-wide-open.jpg)](/photos/chris-heilmann-great-wide-open.jpg)
 [![Chris Heilmann at TEDx Thessaloniki](/photos/thumb-chris-heilmann-tedx-open.jpg)](/photos/chris-heilmann-tedx-open.jpg)
 [![Chris Heilmann at TEDx Thessaloniki](/photos/thumb-chris-heilmann-tedx-thumbs.jpg)](/photos/chris-heilmann-tedx-thumbs.jpg)
 [![Chris Heilmann Mozilla shirt](/photos/thumb-chris-heilmann-hasgeek-mozilla.jpg)](/photos/chris-heilmann-hasgeek-mozilla.jpg)
