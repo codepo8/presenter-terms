@@ -47,7 +47,7 @@ I know it is hard to organise events, so I want to make sure that we are on the 
 * :x: I don't deal with sponsorships of the event and I am not interested in sponsored speaking slots. 
 * :x: I have a list of people I will not present alongside and I refuse to present at events that have certain sponsors. I will flag that up to you when that is the case. I am sorry, that this is the case, but it helps.
 
-## :dance: My deliveries at your event
+## :dancer: My deliveries at your event
 
 Here's what I will do when invited as a presenter at your event.
 
@@ -72,7 +72,7 @@ If I need to use a central computer instead of mine, please consider the followi
 - [x] I don't use any audio or video in my slides, but some GIF animations.
 - [x] I normally don't need notes, but I want to have a remote clicker and a "nanny screen" where I can see my slides instead of having to refer to the screen behind me.
 
-## :prey: My expectations
+## :pray: My expectations
 
 I am a professional presenter, and will do a lot to ensure that the event will be a success. As such, I have a few expections I want met:
 
