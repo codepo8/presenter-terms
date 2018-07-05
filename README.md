@@ -1,4 +1,4 @@
-# Presenter terms: Christian Heilmann
+# Christian Heilmann speaking terms
 
 I have defined presenter terms. In addition to the ones here, please refer to the [So you want me to talk?](https://christianheilmann.com/2012/04/25/so-you-want-me-to-talk/) article on my blog. I am a professional presenter with lots of experience. Therefore I want to make sure that there is no misconception about what I expect and deliver.
 
@@ -11,7 +11,32 @@ I have defined presenter terms. In addition to the ones here, please refer to th
 * **Blog/Homepage:** https://christianheilmann.com
 * **Location:** Berlin, Germany
 
-## :bangbang: Show stoppers
+## :pencil: Presenter Bio
+
+> Chris Heilmann dedicated the last 20 years of his life to make the web work and thrive. As a lead developer on some of the largest web products he learned that knowledge is not enough without teamwork and good handover. He dedicated most of his time since on educating, writing and sharing, presenting on average at 30 conferences a year. He strives to make code and coders work efficiently. He is the author of several JavaScript books and the Developer Evangelism handbook (http://developer-evangelism.com). He is currently a Senior Program Manager in Microsoft and spends a lot of time pondering how machine learning and AI can aid humans and replace jobs we're too important to do. 
+
+## :love_letter: I am available for... 
+
+- [x] Keynotes 
+- [x] Talks
+- [x] Workshops
+- [x] Panels
+- [x] Moderation / MC Duties
+- [x] Video series
+
+## :gift: Subjects I cover... 
+
+- [x] JavaScript/CSS/HTML - Web development 
+- [x] Progressive Web Apps 
+- [x] Development practices and culture
+- [x] Accessibility 
+- [x] Machine Learning / Artificial Intelligence
+- [x] Community building 
+- [x] Careers in Tech 
+- [x] Development tools
+- [x] Future of computing
+  
+## :collision: Show stoppers
 
 I know it is hard to organise events, so I want to make sure that we are on the same level. Here is a list of things that I will not do. 
 
@@ -20,10 +45,6 @@ I know it is hard to organise events, so I want to make sure that we are on the 
 * :x: I don't "pay to play". As a presenter, I expect full access to the event.
 * :x: I don't deal with sponsorships of the event and I am not interested in sponsored speaking slots. 
 * :x: I have a list of people I will not present alongside and I refuse to present at events that have certain sponsors. I will flag that up to you when that is the case. I am sorry, that this is the case, but it helps.
-
-## :pencil: Presenter Bio
-
-> Chris Heilmann dedicated the last 20 years of his life to make the web work and thrive. As a lead developer on some of the largest web products he learned that knowledge is not enough without teamwork and good handover. He dedicated most of his time since on educating, writing and sharing, presenting on average at 30 conferences a year. He strives to make code and coders work efficiently. He is the author of several JavaScript books and the Developer Evangelism handbook (http://developer-evangelism.com). He is currently a Senior Program Manager in Microsoft and spends a lot of time pondering how machine learning and AI can aid humans and replace jobs we're too important to do. 
 
 ### My deliveries
 
