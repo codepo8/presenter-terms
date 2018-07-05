@@ -71,6 +71,6 @@ Attend your event to mingle with attendees. I do speak because I want people to 
 
 ## Presenter Headshots 
 
-
 [![Chris Heilmann at EnterJS](/photos/thumb-chris-heilmann-enterjs-cropped.jpg)](/photos/chris-heilmann-enterjs-cropped.jpg) 
 [![Chris Heilmann on stage at EnterJS](/photos/thumb-chris-heilmann-enterjs-live-cropped.jpg)](/photos/chris-heilmann-enterjs-live-cropped.jpg)
+[![Chris Heilmann on Surface Book](/photos/thumb-chris-heilmann-on-surface-book.jpg)](/photos/chris-heilmann-on-surface-book.jpg)
