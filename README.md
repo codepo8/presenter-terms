@@ -11,7 +11,7 @@ Hello I am Chris and I am happy that you are interested in me speaking at your e
 * **Blog/Homepage:** https://christianheilmann.com
 * **Location:** Berlin, Germany
 
-## ::vhs: Videos of note 
+## :vhs: Videos of note 
 
 In case you are interested in seeing me in action, here are some talks I liked:
 
