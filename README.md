@@ -1,6 +1,6 @@
 # Christian Heilmann speaking terms
 
-I have defined presenter terms. In addition to the ones here, please refer to the [So you want me to talk?](https://christianheilmann.com/2012/04/25/so-you-want-me-to-talk/) article on my blog. I am a professional presenter with lots of experience. Therefore I want to make sure that there is no misconception about what I expect and deliver.
+Hello I am Chris and I am happy that you are interested in me speaking at your event. I have defined presenter terms and here is an overview. In addition to the ones here, please refer to the [So you want me to talk?](https://christianheilmann.com/2012/04/25/so-you-want-me-to-talk/) article on my blog. I am a professional presenter with lots of experience. Therefore I want to make sure that there is no misconception about what I expect and deliver.
 
 ## :wave: Personal information
 
@@ -88,8 +88,35 @@ I am in the lucky position that I have a job that allows me to present. That doe
 - [ ] **I don't expect to be paid for my presentations if your conference helps me in my work.** However, to ensure I don't under-bid peers, I'd like conferences to offer free diversity tickets for the value of a speaker fee instead. 
 - [ ] **If possible, I'd like you to cover my travel and hotel.** I am on stage and need to be able to concentrate on that. I can not do so if I need to find lodgings and organise travel to your event in addition to presenting. I don't expect first class or business class flights, but I do expect to arrive a day before the event and leave the day after with lodging organised in between. I do not want to book and pay myself and get reimbursed. International payments are a mess and I don't have time to deal with paper work in between events seeing that I am presenting almost every two weeks. I am sorry if that sounds harsh, but I want to concentrate on my talks, not try to explain to the tax department what all these invoices are about. 
 
+There are always options to haggle about these things. I'm a reasonable person and if you spend your time creating a great event where money isn't your main goal, we'll find a way. 
+
+## :boom: Things can go wrong... 
+
+Even with the best intentions, there may be trouble and I might not be available for your event. You may also change your mind. If that happens, here's what I want to happen.
+
+- [x] When I can not attend for some reason or another, I will make very much sure to find a replacement presenter to fill in for me. I have a vast network of peers, mentees and friends who can help out. 
+- [x] When for some reason you decide to slash my speaking slot, I expect you to cover the cost involved for me. Often I can book my own flights as I book other appointments around events. Many of them aren't refundable.
+
 ## :camera: Presenter Headshots 
 
 [![Chris Heilmann at EnterJS](/photos/thumb-chris-heilmann-enterjs-cropped.jpg)](/photos/chris-heilmann-enterjs-cropped.jpg) 
 [![Chris Heilmann on stage at EnterJS](/photos/thumb-chris-heilmann-enterjs-live-cropped.jpg)](/photos/chris-heilmann-enterjs-live-cropped.jpg)
 [![Chris Heilmann on Surface Book](/photos/thumb-chris-heilmann-on-surface-book.jpg)](/photos/chris-heilmann-on-surface-book.jpg)
+[![Chris Heilmann at Smashingconf](/photos/thumb-chris-heilmann-dotted-shirt-microphone.jpg)](/photos/chris-heilmann-dotted-shirt-microphone.jpg)
+[![Chris Heilmann at Internet Days](/photos/thumb-chris-heilmann-internetdagarna2016.jpg)](/photos/chris-heilmann-internetdagarna2016.jpg)
+[![Chris Heilmann Peeking](/photos/thumb-chris-heilmann-tie-peeking.jpg)](/photos/chris-heilmann-tie-peeking.jpg)
+[![Chris Heilmann at Great Wide Open](/photos/thumb-chris-heilmann-great-wide-open)](/photos/chris-heilmann-great-wide-open)
+[![Chris Heilmann at TEDx Thessaloniki](/photos/thumb-chris-heilmann-tedx-open.jpg)](/photos/chris-heilmann-tedx-open.jpg)
+[![Chris Heilmann at TEDx Thessaloniki](/photos/thumb-chris-heilmann-tedx-thumbs.jpg)](/photos/chris-heilmann-tedx-thumbs.jpg)
+[![Chris Heilmann Mozilla shirt](/photos/thumb-chris-heilmann-hasgeek-mozilla.jpg)](/photos/chris-heilmann-hasgeek-mozilla.jpg)
+[![Chris Heilmann Mozilla shirt](/photos/thumb-chris-heilmann-black-polo.jpg)](/photos/chris-heilmann-black-polo.jpg)
+
+## :copyright: Photo licenses and information:
+
+* Tie and Internet photo: https://www.flickr.com/photos/stiftelsen/31116017256/
+* Dotted shirt and headset: https://www.flickr.com/photos/marcthiele/31398799070/ 
+* Black shirt and clicker: https://www.flickr.com/photos/124087764@N06/25684379484/ 
+* White shirt open gesture: https://www.flickr.com/photos/tedxthess/14306326115/in/photostream/
+* White shirt thumbs: https://www.flickr.com/photos/tedxthess/14304426622 
+* Mozilla shirt smile: https://www.flickr.com/photos/hasgeek/9928238174/ 
+* Black polo: https://www.flickr.com/photos/szene/8900138988/ 
