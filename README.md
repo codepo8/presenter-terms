@@ -107,6 +107,7 @@ Even with the best intentions, there may be trouble and I might not be available
 
 ## :camera: Presenter Headshots 
 
+[![Chris Heilmann at TDC](/photos/thumb-chris-heilmann-enterjs-cropped.jpg)](/photos/chris-heilmann-enterjs-cropped.jpg) 
 [![Chris Heilmann at EnterJS](/photos/thumb-chris-heilmann-enterjs-cropped.jpg)](/photos/chris-heilmann-enterjs-cropped.jpg) 
 [![Chris Heilmann on stage at EnterJS](/photos/thumb-chris-heilmann-enterjs-live-cropped.jpg)](/photos/chris-heilmann-enterjs-live-cropped.jpg)
 [![Chris Heilmann on Surface Book](/photos/thumb-chris-heilmann-on-surface-book.jpg)](/photos/chris-heilmann-on-surface-book.jpg)
@@ -118,6 +119,10 @@ Even with the best intentions, there may be trouble and I might not be available
 [![Chris Heilmann at TEDx Thessaloniki](/photos/thumb-chris-heilmann-tedx-thumbs.jpg)](/photos/chris-heilmann-tedx-thumbs.jpg)
 [![Chris Heilmann Mozilla shirt](/photos/thumb-chris-heilmann-hasgeek-mozilla.jpg)](/photos/chris-heilmann-hasgeek-mozilla.jpg)
 [![Chris Heilmann Mozilla shirt](/photos/thumb-chris-heilmann-black-polo.jpg)](/photos/chris-heilmann-black-polo.jpg)
+[![Chris Heilmann Credit Suisse Photoshoot Street](/photos/thumb-chris-street.jpg)](/photos/chris-street.jpg)
+[![Chris Heilmann Credit Suisse Photoshoot Mobile](/photos/thumb-chris-mobile.jpg)](/photos/chris-mobile.jpg)
+[![Chris Heilmann Credit Suisse Photoshoot tablet](/photos/thumb-chris-tablet.jpg)](/photos/chris-tablet.jpg)
+[![Chris Heilmann Credit Suisse Photoshoot](/photos/thumb-chris-credit.jpg)](/photos/chris-credit.jpg)
 
 ## :copyright: Photo licenses and information:
 
