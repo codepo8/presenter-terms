@@ -1,3 +1,5 @@
+For an HTML version, check [here](https://codepo8.github.io/presenter-terms/)
+
 # Christian Heilmann speaking terms
 
 Hello I am Chris and I am happy that you are interested in me speaking at your event. I have defined presenter terms and here is an overview. In addition to the ones here, please refer to the [So you want me to talk?](https://christianheilmann.com/2012/04/25/so-you-want-me-to-talk/) article on my blog. I am a professional presenter with lots of experience. Therefore I want to make sure that there is no misconception about what I expect and deliver.
