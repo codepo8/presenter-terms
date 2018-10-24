@@ -128,6 +128,7 @@ Even with the best intentions, there may be trouble and I might not be available
 
 ## :copyright: Photo licenses and information:
 
+* Bin and black Fred Perry sweater photo by [Wil Lee-Wright Photography](http://trondheimphoto.no)
 * Tie and Internet photo: https://www.flickr.com/photos/stiftelsen/31116017256/
 * Dotted shirt and headset: https://www.flickr.com/photos/marcthiele/31398799070/ 
 * Black shirt and clicker: https://www.flickr.com/photos/124087764@N06/25684379484/ 
