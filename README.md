@@ -8,7 +8,7 @@ Hello I am Chris and I am happy that you are interested in me speaking at your e
 
 * **Name:** Christian Heilmann
 * **Company:** Microsoft
-* **Job Title:** Senior Program Manager
+* **Job Title:** Principal Software Development Engineer
 * **Twitter:** [@codepo8](https://twitter.com/codepo8)
 * **Blog/Homepage:** https://christianheilmann.com
 * **Location:** Berlin, Germany
