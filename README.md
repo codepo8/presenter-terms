@@ -23,7 +23,7 @@ In case you are interested in seeing me in action, here are some talks I liked:
 
 ## :pencil: Presenter Bio
 
-> Chris Heilmann dedicated the last 20 years of his life to make the web work and thrive. As a lead developer on some of the largest web products he learned that knowledge is not enough without teamwork and good handover. He dedicated most of his time since on educating, writing and sharing, presenting on average at 30 conferences a year. He strives to make code and coders work efficiently. He is the author of several JavaScript books and the Developer Evangelism handbook (http://developer-evangelism.com). He is currently a Principal Program Manager in Microsoft working on the current and future developer tools based on Chromium. 
+> Chris Heilmann dedicated the last 20 years of his life to make the web work and thrive. As a lead developer on some of the largest web products he learned that knowledge is not enough without teamwork and good handover. He dedicated most of his time since on educating, writing and sharing, presenting on average at 30 conferences a year. He strives to make code and coders work efficiently. He is the author of several JavaScript books and the Developer Evangelism handbook (http://developer-evangelism.com). He is a Principal Program Manager in Microsoft working on the current and future developer tools based on Chromium. 
 
 ## :love_letter: I am available for... 
 
