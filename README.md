@@ -7,8 +7,8 @@ Hello I am Chris and I am happy that you are interested in me speaking at your e
 ## :wave: Personal information
 
 * **Name:** Christian Heilmann
-* **Company:** Microsoft
-* **Job Title:** Principal Program Manager
+* **Company:** WeAreDevelopers
+* **Job Title:** VP of DevRel
 * **Twitter:** [@codepo8](https://twitter.com/codepo8)
 * **Blog/Homepage:** https://christianheilmann.com
 * **Location:** Berlin, Germany
@@ -23,7 +23,7 @@ In case you are interested in seeing me in action, here are some talks I liked:
 
 ## :pencil: Presenter Bio
 
-> Chris Heilmann dedicated the last 20 years of his life to make the web work and thrive. As a lead developer on some of the largest web products he learned that knowledge is not enough without teamwork and good handover. He dedicated most of his time since on educating, writing and sharing, presenting on average at 30 conferences a year. He strives to make code and coders work efficiently. He is the author of several JavaScript books and the Developer Evangelism handbook (http://developer-evangelism.com). He is a Principal Program Manager in Microsoft working on the current and future developer tools based on Chromium. 
+> Chris Heilmann dedicated the last 25 years of his life to make the web work and thrive. As a lead developer on some of the largest web products he learned that knowledge is not enough without teamwork and good handover. He worked at Yahoo, Mozilla and Microsoft, building the web platform, browsers and developer tools. He strives to make code and coders work efficiently. He is the author of several JavaScript books and the Developer Advocacy handbook (<a href="http://developer-advocacy.com">http://developer-advocacy.com</a>). He is currently director of developer relations at WeAreDevelopers and spends a lot of time pondering how machine learning and AI can aid humans and replace jobs we arre too important to do.
 
 ## :love_letter: I am available for... 
 
