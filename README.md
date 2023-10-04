@@ -107,22 +107,22 @@ Even with the best intentions, there may be trouble and I might not be available
 
 ## Presenter Headshots 
 
-[![Chris Heilmann at TDC](photos/thumb-chris-tdc.jpg)](/photos/chris-tdc.jpg) 
-[![Chris Heilmann at EnterJS](/photos/thumb-chris-heilmann-enterjs-cropped.jpg)](/photos/chris-heilmann-enterjs-cropped.jpg) 
-[![Chris Heilmann on stage at EnterJS](/photos/thumb-chris-heilmann-enterjs-live-cropped.jpg)](/photos/chris-heilmann-enterjs-live-cropped.jpg)
-[![Chris Heilmann on Surface Book](/photos/thumb-chris-heilmann-on-surface-book.jpg)](/photos/chris-heilmann-on-surface-book.jpg)
-[![Chris Heilmann at Smashingconf](/photos/thumb-chris-heilmann-dotted-shirt-microphone.jpg)](/photos/chris-heilmann-dotted-shirt-microphone.jpg)
-[![Chris Heilmann at Internet Days](/photos/thumb-chris-heilmann-internetdagarna2016.jpg)](/photos/chris-heilmann-internetdagarna2016.jpg)
-[![Chris Heilmann Peeking](/photos/thumb-chris-heilmann-tie-peeking.jpg)](/photos/chris-heilmann-tie-peeking.jpg)
-[![Chris Heilmann at Great Wide Open](/photos/thumb-chris-heilmann-great-wide-open.jpg)](/photos/chris-heilmann-great-wide-open.jpg)
-[![Chris Heilmann at TEDx Thessaloniki](/photos/thumb-chris-heilmann-tedx-open.jpg)](/photos/chris-heilmann-tedx-open.jpg)
-[![Chris Heilmann at TEDx Thessaloniki](/photos/thumb-chris-heilmann-tedx-thumbs.jpg)](/photos/chris-heilmann-tedx-thumbs.jpg)
-[![Chris Heilmann Mozilla shirt](/photos/thumb-chris-heilmann-hasgeek-mozilla.jpg)](/photos/chris-heilmann-hasgeek-mozilla.jpg)
-[![Chris Heilmann Mozilla shirt](/photos/thumb-chris-heilmann-black-polo.jpg)](/photos/chris-heilmann-black-polo.jpg)
-[![Chris Heilmann Credit Suisse Photoshoot Street](/photos/thumb-chris-street.jpg)](/photos/chris-street.jpg)
-[![Chris Heilmann Credit Suisse Photoshoot Mobile](/photos/thumb-chris-mobile.jpg)](/photos/chris-mobile.jpg)
-[![Chris Heilmann Credit Suisse Photoshoot tablet](/photos/thumb-chris-tablet.jpg)](/photos/chris-tablet.jpg)
-[![Chris Heilmann Credit Suisse Photoshoot](/photos/thumb-chris-credit.jpg)](/photos/chris-credit.jpg)
+[![Chris Heilmann at TDC](photos/thumb-chris-tdc.jpg)](photos/chris-tdc.jpg) 
+[![Chris Heilmann at EnterJS](photos/thumb-chris-heilmann-enterjs-cropped.jpg)](photos/chris-heilmann-enterjs-cropped.jpg) 
+[![Chris Heilmann on stage at EnterJS](photos/thumb-chris-heilmann-enterjs-live-cropped.jpg)](photos/chris-heilmann-enterjs-live-cropped.jpg)
+[![Chris Heilmann on Surface Book](photos/thumb-chris-heilmann-on-surface-book.jpg)](photos/chris-heilmann-on-surface-book.jpg)
+[![Chris Heilmann at Smashingconf](photos/thumb-chris-heilmann-dotted-shirt-microphone.jpg)](photos/chris-heilmann-dotted-shirt-microphone.jpg)
+[![Chris Heilmann at Internet Days](photos/thumb-chris-heilmann-internetdagarna2016.jpg)](photos/chris-heilmann-internetdagarna2016.jpg)
+[![Chris Heilmann Peeking](photos/thumb-chris-heilmann-tie-peeking.jpg)](photos/chris-heilmann-tie-peeking.jpg)
+[![Chris Heilmann at Great Wide Open](photos/thumb-chris-heilmann-great-wide-open.jpg)](photos/chris-heilmann-great-wide-open.jpg)
+[![Chris Heilmann at TEDx Thessaloniki](photos/thumb-chris-heilmann-tedx-open.jpg)](photos/chris-heilmann-tedx-open.jpg)
+[![Chris Heilmann at TEDx Thessaloniki](photos/thumb-chris-heilmann-tedx-thumbs.jpg)](photos/chris-heilmann-tedx-thumbs.jpg)
+[![Chris Heilmann Mozilla shirt](photos/thumb-chris-heilmann-hasgeek-mozilla.jpg)](photos/chris-heilmann-hasgeek-mozilla.jpg)
+[![Chris Heilmann Mozilla shirt](photos/thumb-chris-heilmann-black-polo.jpg)](photos/chris-heilmann-black-polo.jpg)
+[![Chris Heilmann Credit Suisse Photoshoot Street](photos/thumb-chris-street.jpg)](photos/chris-street.jpg)
+[![Chris Heilmann Credit Suisse Photoshoot Mobile](photos/thumb-chris-mobile.jpg)](photos/chris-mobile.jpg)
+[![Chris Heilmann Credit Suisse Photoshoot tablet](photos/thumb-chris-tablet.jpg)](photos/chris-tablet.jpg)
+[![Chris Heilmann Credit Suisse Photoshoot](photos/thumb-chris-credit.jpg)](photos/chris-credit.jpg)
 
 ## Photo licenses and information:
 
