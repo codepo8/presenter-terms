@@ -107,7 +107,7 @@ Even with the best intentions, there may be trouble and I might not be available
 
 ## Presenter Headshots 
 
-[![Chris Heilmann at TDC](/photos/thumb-chris-tdc.jpg)](/photos/chris-tdc.jpg) 
+[![Chris Heilmann at TDC](photos/thumb-chris-tdc.jpg)](/photos/chris-tdc.jpg) 
 [![Chris Heilmann at EnterJS](/photos/thumb-chris-heilmann-enterjs-cropped.jpg)](/photos/chris-heilmann-enterjs-cropped.jpg) 
 [![Chris Heilmann on stage at EnterJS](/photos/thumb-chris-heilmann-enterjs-live-cropped.jpg)](/photos/chris-heilmann-enterjs-live-cropped.jpg)
 [![Chris Heilmann on Surface Book](/photos/thumb-chris-heilmann-on-surface-book.jpg)](/photos/chris-heilmann-on-surface-book.jpg)
